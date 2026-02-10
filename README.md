@@ -8,14 +8,14 @@ The PCB was designed in KiCad.
 
 # BOM – Bill of Materials
 Quantity |	Name |
-| 1×  |NE555P IC TIMER|
-| 1×	|IC SOCKET|
-| 10× |LEDs|
-| 2×	|Resistors|
-| 2×	|Capacitors|
-| 1×	|Potentiometer|
-| 2×	|Power Connectors|
-| 1×	|Custom PCB	Designed in KiCAD|
+| 1×  | NE555P IC TIMER |
+| 1×	| IC SOCKET |
+| 10× | LEDs |
+| 2×	| Resistors |
+| 2×	| Capacitors |
+| 1×	| Potentiometer |
+| 2×	| Power Connectors |
+| 1×	| Custom PCB	Designed in KiCAD |
 
 # REPOSITORIES:
 PCB-Pcb design and other files

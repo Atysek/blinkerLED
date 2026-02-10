@@ -7,7 +7,8 @@ The PCB was designed in KiCad.
 <img width="891" height="562" alt="{4B5523B8-4C61-4CB2-A164-39E764477164}" src="https://github.com/user-attachments/assets/eba167a0-2c82-4d5e-9ea0-a2630cbb97a3" />
 
 # BOM – Bill of Materials
-Quantity |	Name |
+| Quantity |	Name |
+|----------|-------|
 | 1×  | NE555P IC TIMER |
 | 1×	| IC SOCKET |
 | 10× | LEDs |

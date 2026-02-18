@@ -3,7 +3,7 @@ Simple board with few blinking LEDs. The board creates a LED blinking effect, ma
 
 # PCB & Schematic
 The PCB was designed in KiCad.
-<img width="1068" height="602" alt="BlinkerLED" src="https://github.com/user-attachments/assets/a31a929f-6393-4f2d-be7a-6b2c32426c0a" />
+<img width="1068" height="602" alt="BlinkerLED" src="https://github.com/user-attachments/assets/ff3c8454-6abb-46dc-9986-f9b3f5e83e7c" />
 <img width="891" height="562" alt="{4B5523B8-4C61-4CB2-A164-39E764477164}" src="https://github.com/user-attachments/assets/eba167a0-2c82-4d5e-9ea0-a2630cbb97a3" />
 
 # BOM – Bill of Materials
